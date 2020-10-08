@@ -1,3 +1,5 @@
+PROBLEM STATEMENT : 
+
 In a village far far away, lived a farmer named Zico. He was finding it difficult to make his two ends meet and hence, approached the god of grains, Azure. Azure granted him a blessing:
 
 "I shall grant thou P units of food initially . After every year, thou shall come to me and the food units shall increase by a value M i.e P+M, P+M+M, ... and so on. But remember, every year the population of your village shall multiply by a factor of '2' and you must divide the food evenly among all villagers."
